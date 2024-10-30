@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>icon-128х128</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon-128х128" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="128" height="128"></rect>
+        <rect id="Rectangle" fill="#F6FBFF" x="0" y="0" width="128" height="128"></rect>
+        <g id="Combined-Shape-2" transform="translate(33.000000, 33.000000)" fill="#3365FF">
+            <path d="M63,0 L63,63 L0,63 L0,0 L63,0 Z M54.8789062,8.12109375 L8.12109375,8.12109375 L8.12109375,54.8789062 L54.8789062,54.8789062 L54.8789062,8.12109375 Z M45.5273437,17.71875 L45.5273437,45.5273437 L17.71875,45.5273437 L17.71875,17.71875 L45.5273437,17.71875 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
